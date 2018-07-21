@@ -1,6 +1,6 @@
-# awesome-android
+# Awesome Android UI
 
-## Should i build the project with gitbook?  [https://github.com/snowdream/awesome-android/issues/102](https://github.com/snowdream/awesome-android/issues/102)
+## Should i build the project with gitbook?  [https://github.com/vimalcvs/Awesome-Android-UI/issues/102](https://github.com/vimalcvs/Awesome-Android-UI/issues/102)
 
 ## Introduction
 android libs from github
@@ -2851,7 +2851,7 @@ And this project is not using the image file!
 
 ## License
 ```
-Copyright (C) 2014 Snowdream Mobile <yanghui1986527@gmail.com>
+Copyright (C) 2018 Vimal CVS <vimalcvs29@gmail.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

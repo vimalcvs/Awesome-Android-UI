@@ -2853,7 +2853,7 @@ Follow us on:
 
 [![Facebook](http://codemybrainsout.com/files/img/fb.png)](https://www.facebook.com/vimalcvs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](http://codemybrainsout.com/files/img/tw.png)](https://twitter.com/vimalvishwakar6)
 
-Author: [Vimal K. Vishwakarma](https://github.com/vimal)
+Author: [Vimal K. Vishwakarma](https://github.com/vimalcvs)
 
 # License
 ```

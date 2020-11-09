@@ -2828,7 +2828,11 @@ And this project is not using the image file!
 1. **android-ocr** An experimental app for Android that performs optical character recognition (OCR) on images captured using the device camera.    
 [https://github.com/rmtheis/android-ocr](https://github.com/rmtheis/android-ocr)
 1. **MasteringAndroidDataBinding**  A comprehensive tutorial for Android Data Binding    
-[https://github.com/LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
+[https://github.com/LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding) 
+1. **PermissionMadeEasy**  Android Library for Easily calling Runtime Permission on Android Marshmallow and above. Written In Kotlin.    
+[https://github.com/TheSomeshKumar/PermissionMadeEasy](https://github.com/TheSomeshKumar/PermissionMadeEasy)
+
+
 
 
 ### <A NAME="Books"></A>Books
